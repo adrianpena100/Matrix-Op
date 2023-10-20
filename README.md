@@ -1,4 +1,3 @@
-# Java Matrix Operations Library
 # MathMatrix
 MathMatrix is a Java class that models systems of linear equations (math matrices) commonly used in linear algebra. It allows you to perform various operations on matrices, such as addition, subtraction, multiplication, scaling, transposition, and checking if a matrix is upper triangular.
 

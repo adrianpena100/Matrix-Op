@@ -1,16 +1,4 @@
 import java.util.Arrays;
-//MathMatrix.java - CS314 Assignment 2
-
-/*  Student information for assignment:
- *
- *  On my honor, <Adrian Pena>, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  UTEID: ajp4638
- *  email address: penajakk@gmail.com
- *  Unique section number: 52270
- *  Number of slip days I am using: 0
- */
 
 /**
  * A class that models systems of linear equations (Math Matrices)
